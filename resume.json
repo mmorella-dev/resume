@@ -1,0 +1,146 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "basics": {
+    "name": "Mae B. Morella",
+    "label": "Software developer",
+    "picture": "",
+    "email": "hire@mmorella.dev",
+    "website": "https://github.com/morellam-dev",
+    "summary": "Recent graduate with solid foundations in every part of the software development lifecycle. Fast learner, proficient problem-solver, expert communicator. Eager to leverage my technical and teamwork skills to build high-quality, maintainable solutions.",
+    "location": {
+      "city": "Atlanta",
+      "region": "Georgia"
+    },
+    "profiles": [
+      {
+        "network": "GitHub",
+        "username": "morellam-dev",
+        "url": "https://github.com/morellam-dev"
+      },
+      {
+        "network": "Linkedin",
+        "username": "mmorella-dev",
+        "url": "https://www.linkedin.com/in/mmorella-dev"
+      }
+    ]
+  },
+  "education": [
+    {
+      "institution": "Kennesaw State University",
+      "studyType": "B.Sc.",
+      "area": "Computer Science",
+      "startDate": "2019-08-01",
+      "endDate": "2023-05-01",
+      "gpa": "3.8 / 4.0",
+      "courses": [
+        "Data Structures",
+        "Operating Systems",
+        "Algorithm Analysis",
+        "Parallel/Distributed Computing"
+      ]
+    },
+    {
+      "studyType": "Minor",
+      "area": "Software Engineering",
+      "courses": [
+        "Intro to Software Engineering",
+        "Software Architecture",
+        "Software Testing & QA",
+        "User Centered Design"
+      ]
+    },
+    {
+      "studyType": "Minor",
+      "area": "Professional Writing",
+      "courses": [
+        "Technical Communication",
+        "Workplace Writing"
+      ]
+    },
+    {
+      "institution": "Milton High School",
+      "area": "High School Diploma",
+      "studyType": "Diploma",
+      "startDate": "2015-08-01",
+      "endDate": "2019-05-01",
+      "gpa": "94 / 100",
+      "courses": [
+        "AP Computer Science",
+        "AP Calculus BC"
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "President's List",
+      "date": "2019–2023",
+      "awarder": "Kennesaw State University",
+      "summary": "Achieved a 4.0 semesterly GPA, and completed a minimum of nine credit hours. Awarded four times."
+    }
+  ],
+  "skills": [
+    {
+      "name": "Web development",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "Javascript",
+        "React"
+      ]
+    },
+    {
+      "name": "Backend",
+      "keywords": [
+        "Java",
+        "C++",
+        "C#",
+        "Rust"
+      ]
+    },
+    {
+      "name": "Scripting / Automation",
+      "keywords": [
+        "Bash / Zsh / Fish",
+        "Python",
+        "GitHub Actions"
+      ]
+    },
+    {
+      "name": "Version Control / CI",
+      "level": "Master",
+      "keywords": [
+        "Git",
+        "GitHub",
+        "Trunk-based Development"
+      ]
+    }
+  ],
+  "interests": [],
+  "references": [],
+  "projects": [
+    {
+      "name": "The Vāda Project (Senior Project 2022–2023)",
+      "url": "https://vadaproject.github.io/",
+      "description": "A multi-user debate platform built in PHP, SQL, HTML, and JavaScript. Transformed a legacy codebase into a modern MVC application.",
+      "roles": [
+        "Lead programmer"
+      ],
+      "highlights": [
+        "Developed testable and maintainable PHP code",
+        "Worked in an inter-department team",
+        "Collaborated via GitHub Issues",
+        "Organized weekly remote meetings"
+      ],
+      "keywords": [
+        "PHP",
+        "HTML",
+        "CSS"
+      ]
+    }
+  ],
+  "meta": {
+    "canonical": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+    "version": "v1.0.0",
+    "theme": "jsonresume-theme-local"
+  }
+}
