@@ -6,12 +6,12 @@
   "scripts": {
     "start": "npm-watch",
     "test:validate": "resumed validate",
-    "resumed:build": "resumed render -o build/index.html",
+    "build": "resumed render -o build/index.html",
     "start:serve": "live-server --entry-file=resume.html build/",
     "watch:html": "npm-watch 'resumed render' resume.json"
   },
   "watch": {
-    "resumed:build": {
+    "build": {
       "patterns": [
         "resume.json",
         "theme/*"
